@@ -10,15 +10,13 @@ This repository contains a data analytics project focused on analyzing e-commerc
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 - [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/)
-- Sample e-commerce sales dataset (provide a link to the dataset if possible)
+- Sample e-commerce sales dataset
 
 ## Installation
 
