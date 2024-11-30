@@ -4,9 +4,9 @@
 This project involves creating an interactive dashboard to analyze e-commerce sales data, providing actionable insights into business performance and customer behavior. The dashboard highlights key metrics such as revenue, profit, and sales trends, enabling better decision-making for stakeholders.
 
 ## Features
-Sales Performance Analysis: Displays total revenue, profit, and key sales trends over time.
-Customer Insights: Highlights customer purchasing patterns and top-performing customer segments.
-Product Analysis: Identifies best-selling products and categories contributing to overall revenue.
+Sales Performance Analysis: Displays total revenue, profit, and key sales trends over time.  \
+Customer Insights: Highlights customer purchasing patterns and top-performing customer segments. \
+Product Analysis: Identifies best-selling products and categories contributing to overall revenue. \
 Regional Performance: Analyzes sales data based on regions to uncover high-performing areas.
 
 ## Tools & Technologies
